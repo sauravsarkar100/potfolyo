@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+body{
+    background: #F1F1F1;
+}
+.heder-font{
+    padding: 10px 0 0 0;
+    font-size: 12px;
+    font-weight: 700;
+}
+.heder-font i{
+    letter-spacing: 10px;
+    font-size: 14px;
+}
+.language{
+    outline: none;
+    border: none;
+    padding: 10px 0 0 0;
+    font-size: 12px;
+    font-weight: 700;
+}
+.list{
+    border: none;
+    outline: none;
+    padding: 10px 0 0 10px;
+    font-size: 12px;
+    font-weight: 700;
+}
+.color{
+    background: #fff;
+}
+.shopping i{
+    font-size: 3.1rem;
+    margin-top: 12px;
+}
+.big{
+    line-height: 3px;
+    margin-top: 10px;
+}
+.big h1{
+    
+    font-weight: 900;
+}
+.big p{
+    font-size: 14px;
+    margin-left: 4.7rem;
+    font-weight: 600;
+}
+.all{
+    font-size: 10px;
+    font-weight: 700;
+}
+.cod{
+    width: 53% !important;
+} 
+.shop{
+    margin-top: 12px;
+}
+.shop h5{
+    font-size: 14px;
+    font-weight: 700;
+}
+.BY{
+    font-size: 14px;
+    font-weight: 700;
+    padding: 10px;
+    background: rgb(48, 157, 247);
+
+}
+.gift{
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 20px;
+    background: rgb(48, 157, 247);
+}
+.back{
+    background-color: rgb(7, 7, 97);
+    
+}
+nav ul li a{
+    color: #fff !important;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+}
+.dorf a{
+    color: #333 !important;
+}
+.home h2{
+    font-weight: 700;
+}
+.home h6{
+    font-size: 12px;
+    font-weight: 700;
+    color: #333;
+}
+.slid{
+    background-color: #fff;
+    width: 65%;
+    display: grid;  
+}
+.blue i{
+    font-size: 1.8rem;
+    display: inline;
+    
+}
+.wit{
+    outline: none !important;
+    border: none !important;
+    
+}
+.chck label{
+    font-size: 12px;
+    font-weight: 600;
+}
+.dolor label{
+    font-size: 12px;
+    font-weight: 500;
+}
+.off{
+    background-color: #fff;
+    width: 100%;
+    display: grid;
+}
+.new{
+    width: 100%;
+    margin: auto;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+    /* padding-bottom: 50%; */
+    
+    
+}
+.new b{
+    font-size: 14px;
+    
+}
+.new h2{
+    padding-top: 0;
+    padding-bottom: 0; 
+}
+.fashin-img img{
+   width: 70%; 
+}
+.sit h3{
+    /* font-size: 18px; */
+    font-weight: 700;
+}
+.sit h5{
+    font-size: 18px;
+    font-weight: 600;
+}
+.sit p{
+    color: #333;
+}
+.card:hover{
+    opacity: 0.2;
+    background-color: rgb(160, 146, 146);
+    color: #fff;
+}
